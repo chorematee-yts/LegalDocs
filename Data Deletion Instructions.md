@@ -61,8 +61,8 @@ We may also retain anonymous or aggregated information that can no longer identi
 ## Option 1 — Delete from Within the App (Recommended)
 
 1. Open **ChoreMate**.
-2. Go to **Settings**.
-3. Open **Account Settings**.
+2. Go to **More**.
+3. Open **Settings**.
 4. Tap **Delete Account**.
 5. Review the confirmation message.
 6. Confirm that you want to permanently delete your account.
